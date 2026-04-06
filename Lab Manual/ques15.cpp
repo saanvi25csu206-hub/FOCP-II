@@ -5,7 +5,7 @@ using namespace std;
 class Max{
     private:
     int n;
-    float sum,arr[];
+    float sum=0,arr[];
     public:
     void getdata(){
         cout<<"number of entries:";
